@@ -1,0 +1,7 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "firstjava/src",
+        "Bomberman-Adventure/src/main/java/Main"
+    ]
+}
